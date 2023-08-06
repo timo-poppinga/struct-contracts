@@ -3,8 +3,7 @@
   "license": "MIT",
   "description": "Contracts for providing structured and more complex data types, similar to 'Struct' in other programming languages",
   "require": {
-    "php": "^8.2.7",
-    "ext-json": "*"
+    "php": "^8.2.7"
   },
   "autoload": {
     "psr-4": {
